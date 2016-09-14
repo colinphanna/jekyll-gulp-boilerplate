@@ -2,7 +2,6 @@
   "name": "jekyll-gulp-boilerplate",
   "version": "1.0.0",
   "description": "Project to template out jekyll projects with gulp",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/colinphanna/jekyll-gulp-boilerplate/issues"
   },
-  "homepage": "https://github.com/colinphanna/jekyll-gulp-boilerplate#readme"
+  "homepage": "https://github.com/colinphanna/jekyll-gulp-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
